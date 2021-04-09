@@ -7,7 +7,7 @@
   <img align="left" alt="Ian's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F101049585376188061%2F&psig=AOvVaw3ljPyAo8_OY-LZwM3MxpCC&ust=1618093779605000&source=images&cd=vfe&ved=2ahUKEwj08uuYm_LvAhXUIH0KHa7XBy8QjRx6BAgAEAc" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/72/0d/3d/720d3d464ffbadd23a75a320956caa08.gif" />
 
 ### I am Ian Rones
 - A Full Stack Engineer with an emphasis on Front End.
